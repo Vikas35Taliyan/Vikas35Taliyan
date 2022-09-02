@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Vikas kumar Taliyan</h1>
+<h1 align="center">Hi 👋, I'm Vikas kumar</h1>
 <h3 align="center">Hello visitor, I am passionate about learning.Currently learning full-stack development from Ineuronai, making stuff and exploring Technology, reading non-fiction books is my passion.Welcome to my little space on the internet.You can find links to my Blogs, social profiles,and my projects here.</h3>
 
 - 🌱 I’m currently learning **TailwindCSS and Javascript.**
