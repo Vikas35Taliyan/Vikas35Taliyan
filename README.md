@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Vikas kumar</h1>
 <h3 align="center">Hello visitor, I am passionate about learning.Currently learning full-stack development from Ineuronai, making stuff and exploring Technology, reading non-fiction books is my passion.Welcome to my little space on the internet.You can find links to my Blogs, social profiles,and my projects here.</h3>
 
-- 🌱 I’m currently learning **TailwindCSS and Javascript.**
+- 🌱 I’m currently learning **ReactJs and ExpressJs.**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vikas35taliyan/overview](https://app.netlify.com/teams/vikas35taliyan/overview)
 
@@ -11,7 +11,7 @@
 
 - Here is my Youtube Channel link [youtube](https://www.youtube.com/channel/UCgZp6YF9RHE9bFzoHBqKV2Q)
 
-- 💬 Ask me about **HTML, CSS and Javascript.**
+- 💬 Ask me about **HTML, CSS and Javascript and ReactJs.**
 
 - 📫 How to reach me **vikaskumarr365@gmail.com**
 
