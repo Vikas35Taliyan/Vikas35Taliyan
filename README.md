@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vikas kumar</h1>
-<h3 align="center">Hello visitor, I am passionate about learning.Currently learning full-stack development from Ineuronai, making stuff and exploring Technology, reading non-fiction books is my passion.Welcome to my little space on the internet.You can find links to my Blogs, social profiles,and my projects here.</h3>
+<h3 align="center">Hello visitor, I am passionate about learning and currently learning full-stack development from Ineuronai- now (pwskills), making stuff and exploring Technology, reading non-fiction books is my passion. Welcome to my little space on the internet. You can find links to my Blogs, social profiles,and my projects here.</h3>
 
-- 🌱 I’m currently learning **ReactJs and ExpressJs.**
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/vikas35taliyan/overview](https://app.netlify.com/teams/vikas35taliyan/overview)
+- 🌱 I’m currently learning **MongoDB.**
 
 - 📝 I regularly write articles on [https://vikas360.hashnode.dev/](https://vikas360.hashnode.dev/)
 
