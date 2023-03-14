@@ -1,7 +1,18 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Vikas kumar</h1>
-<h3 align="center">Hello visitor, I am passionate about learning and currently learning full-stack development from Ineuronai- now (pwskills), making stuff and exploring Technology, reading non-fiction books is my passion. Welcome to my little space on the internet. You can find links to my Blogs, social profiles,and my projects here.</h3>
+<h3 align="center">Frontend developer(Fresher) with experience in HTML, CSS, Tailwind, Bootstrap, Sass, JavaScript, and React.js. I am passionate about creating beautiful, user-friendly websites and applications that provide a great user experience.
+
+Skills
+HTML: I have a strong understanding of HTML and its various elements, and can create well-structured, semantic markup that is both accessible and search engine-friendly.
+CSS: I am proficient in CSS, including its various selectors, properties, and units. I can create responsive layouts and designs that work across different devices and screen sizes.
+Tailwind: I have experience using Tailwind, a utility-first CSS framework that makes it easy to style and layout web pages quickly and efficiently.
+Bootstrap: I am familiar with Bootstrap, a popular front-end framework that provides a wide range of pre-built components and styles for building responsive, mobile-first websites and applications.
+Sass: I have used Sass, a powerful CSS preprocessor that allows for variables, nesting, and other advanced features that can help make stylesheets more maintainable and scalable.
+JavaScript: I have a solid understanding of JavaScript and its various concepts, including variables, functions, loops, and events. I can write clean, efficient code that is easy to read and understand.
+React.js: I have experience working with React.js, a popular JavaScript library for building user interfaces. I can create components, handle state and props, and use React Router to create a single-page application.
+Git and GitHub: I am comfortable using Git for version control, and have experience using GitHub for code hosting and collaboration.
+.</h3>
 
 - 🌱 I’m currently learning **MongoDB.**
 
